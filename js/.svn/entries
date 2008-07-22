@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2"
+   name=""
+   committed-date="2007-07-03T17:55:44.127059Z"
+   url="https://infernowiki.googlecode.com/svn/trunk/prettysearch/trunk/js"
+   last-author="guillaume.garcera"
+   kind="dir"
+   uuid="b5d17771-5f34-0410-a47a-d57e81adfe2f"
+   repos="https://infernowiki.googlecode.com/svn"
+   revision="2"/>
+<entry
+   committed-rev="2"
+   name="prettysearch.js"
+   text-time="2007-07-03T18:06:20.000000Z"
+   committed-date="2007-07-03T17:55:44.127059Z"
+   checksum="c39588b61e551f9bde92ac45342f6414"
+   last-author="guillaume.garcera"
+   kind="file"
+   prop-time="2007-07-03T18:06:20.000000Z"/>
+</wc-entries>
